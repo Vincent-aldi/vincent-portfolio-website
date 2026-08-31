@@ -61,7 +61,7 @@ The portfolio is designed with a clean, modern, and responsive interface to make
 | Project | Description |
 |---|---|
 | **MAGASA** | Web application designed to help students find and explore internship opportunities. |
-| **LOGSHOP — Marketplace Website** | A marketplace website focused on product presentation, intuitive navigation, and a simple shopping experience. | HTML, CSS, JavaScript, Next.js |
+| **LOGSHOP** | A marketplace website focused on product presentation, intuitive navigation, and a simple shopping experience. | HTML, CSS, JavaScript, Next.js |
 | **Sistem Akademik** | Academic system project focused on structured web development and object-oriented programming concepts. |
 
 ---
