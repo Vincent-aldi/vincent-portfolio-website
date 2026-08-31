@@ -2,14 +2,6 @@
 
 > **Personal portfolio website** showcasing my work across **Data Analytics, UI/UX Design, and Frontend Development**.
 
-<p align="center">
-  <a href="#-about">About</a> •
-  <a href="#-featured-projects">Projects</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-getting-started">Getting Started</a> •
-  <a href="#-deployment">Deployment</a>
-</p>
-
 ---
 
 ## 👋 About
