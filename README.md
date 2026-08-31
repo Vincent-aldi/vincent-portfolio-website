@@ -1,4 +1,4 @@
-# ✦ Vincent Portfolio
+# Vincent Portfolio
 
 > **Personal portfolio website** showcasing my work across **Data Analytics, UI/UX Design, and Frontend Development**.
 
