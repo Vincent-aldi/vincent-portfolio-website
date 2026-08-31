@@ -3,7 +3,7 @@
 > **Personal portfolio website** showcasing my work across **Data Analytics, UI/UX Design, and Frontend Development**.
 
 <p align="center">
-  <img src="public/images/preview.png" alt="Vincent Portfolio Preview" width="900"/>
+  VincentDev
 </p>
 
 <p align="center">
