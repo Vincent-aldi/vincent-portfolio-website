@@ -3,10 +3,6 @@
 > **Personal portfolio website** showcasing my work across **Data Analytics, UI/UX Design, and Frontend Development**.
 
 <p align="center">
-  VincentDev
-</p>
-
-<p align="center">
   <a href="#-about">About</a> •
   <a href="#-featured-projects">Projects</a> •
   <a href="#-tech-stack">Tech Stack</a> •
